@@ -1,0 +1,7 @@
+jose23:dev 
+ana09:admin 
+luis123:ventas 
+María:hr 
+root:sys 
+juan_:ventas 
+
